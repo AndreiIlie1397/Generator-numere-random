@@ -1,0 +1,9 @@
+Afisez 11 numere intregi random intre 1 si 11:
+3   7   8   2   5   10   7   7   3   9   7   
+
+Afisez 7 numere intregi random intre 100 si 150:
+119   125   121   141   104   118   114   
+
+Afisez 5 numere intregi random intre 1 si 100:
+77   65   22   16   83   
+

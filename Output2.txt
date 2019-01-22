@@ -1,0 +1,6 @@
+Afisez 7 numere prime random intre 100 si 200:
+131   199   131   199   163   199   197   
+
+Afisez 5 numere prime random intre 1 si 100:
+5   19   37   23   67   
+
